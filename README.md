@@ -8,7 +8,7 @@ During web research I tend to open several tabs, sometimes I end up with several
 
 ## Give it a Try
 
-- Firefox Add-on available at <https://addons.mozilla.org/en-US/firefox/addon/tabtastic/>
+- Firefox Add-on available at <https://addons.mozilla.org/firefox/addon/tabtastic/>
 - Chrome Web Store Extension <https://chrome.google.com/webstore/detail/tabtastic/gdehoijkpffgonmbbeonbicfbffkglhn>
 
 ## 🏁 Road Map
